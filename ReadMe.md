@@ -5,12 +5,12 @@ This repository contains all of the projects done during Oasis Infobyte - Web De
 # Assignments :
 
 * Project-1 - Calculator
-* Project-2 - To-Do List
-* Project-3 - Tribute page
+* Project-2 - Tribute Page
+* Project-3 - Basic To-Do List
 
 
 # Outputs :
 
 * Project 1: [Calculator](https://prajwalpatil2204.github.io/OIBSIP/Calculator/index.html)
-* Project 2: [To-Do List](https://prajwalpatil2204.github.io/OIBSIP/To-Do_list/index.html)
-* Project 3: [Tribute page](https://prajwalpatil2204.github.io/OIBSIP/Tribute_page/index.html)
+* Project 2: [Tribute Page](https://prajwalpatil2204.github.io/OIBSIP/Tribute_page/index.html)
+* Project 3: [Basic To-Do List](https://prajwalpatil2204.github.io/OIBSIP/To-Do_list/index.html)
